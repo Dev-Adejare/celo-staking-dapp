@@ -13,6 +13,9 @@ stook().catch((error) => {
     process.exitCode = 1;
 });
 
+
+//0x46064225BE5bb03ec2AAE33bd07ce9a7Bf2EC712
+
 // 3 staking adress: 0xF4D1D8965f16BE38Ed01DdEa3570a81198A9358e
 
 // 2 Reward token adress: 0xE9230561784886E441a604819F660c071c116B72

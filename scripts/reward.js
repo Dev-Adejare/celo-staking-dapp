@@ -13,7 +13,7 @@ rewad().catch((error) => {
     process.exitCode = 1;
 });
 
-//0xE9230561784886E441a604819F660c071c116B72
+// 0x6dec36D0Cf428fE7f8452aDC3b72Bd1E0FfFf033
 
 /**
  * const rew = require('hardhat');
